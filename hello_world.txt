@@ -1,1 +1,2 @@
-Hello, this is part of the Odin Project exercises
+Hello, this is part of the Odin Project exercises.
+This is a new added to confirm i can make the process to use git correctly.
